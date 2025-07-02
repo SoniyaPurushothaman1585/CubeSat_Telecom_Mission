@@ -29,5 +29,5 @@ This project involves designing a 1U CubeSat mission for relaying IoT or amateur
    - `04_Access_Analysis/AccessPlotter.py`
 
 ## 📜 License
-MIT or GPL – choose as needed.
+MIT 
 
